@@ -60,6 +60,16 @@ use_react_native!(
 <li>Once you've configured it, you can install the Hermes pods with:</li>
 <pre><code>$ cd ios && pod install</pre></code>
 
+# Size of apk (react-native 0.69.1)
+
+<b>With hermes and proguard enable</b><br>
+
+![Screenshot](assets/with.png)
+
+<b>Without hermes and proguard</b><br> 
+
+![Screenshot](assets/without.png)
+
 # More about hermes
 
 <a>https://reactnative.dev/docs/hermes</a><br>
